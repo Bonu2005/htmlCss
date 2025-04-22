@@ -89,8 +89,8 @@
 }
 
 .icon {
-    color: #000000; /* максимально чёрный */
-    font-size: 24px; /* можно увеличить, если надо */
+    color: #000000;
+    font-size: 24px; 
     margin-left: 420px;
     font-weight: bolder;
 }
